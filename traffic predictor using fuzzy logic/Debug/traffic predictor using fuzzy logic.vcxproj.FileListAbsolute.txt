@@ -1,0 +1,2 @@
+C:\Users\thush\source\repos\traffic predictor using fuzzy logic\Debug\traffic predictor using fuzzy logic.exe
+C:\Users\thush\source\repos\traffic predictor using fuzzy logic\Debug\traffic predictor using fuzzy logic.pdb

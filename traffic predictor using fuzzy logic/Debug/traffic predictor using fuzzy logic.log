@@ -1,0 +1,5 @@
+﻿  traffic predictor using fuzzy logic.cpp
+C:\Users\thush\source\repos\traffic predictor using fuzzy logic\traffic predictor using fuzzy logic.cpp(23,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\thush\source\repos\traffic predictor using fuzzy logic\traffic predictor using fuzzy logic.cpp(44,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\thush\source\repos\traffic predictor using fuzzy logic\traffic predictor using fuzzy logic.cpp(62,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  traffic predictor using fuzzy logic.vcxproj -> C:\Users\thush\source\repos\traffic predictor using fuzzy logic\Debug\traffic predictor using fuzzy logic.exe
